@@ -2,7 +2,6 @@
     height: 100%;
     width: 100%;
     margin-top: 200px;
-    margin-left: 500px;
 }
 #Aadhaar_input {
     width: 355px;
@@ -17,11 +16,10 @@
 }
 #button,#button_clear {
     padding: auto;
-    width: 100px;
+    width: 355px;
     height: 35px;
     background-color: #ffffff;
     font-size: 20px;
-    margin-left: 50px;
     margin-top: 25px;
 }
 /* Styles for desktop devices */
