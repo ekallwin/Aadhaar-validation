@@ -11,7 +11,7 @@
 #label_text, #val_disp,#loading {
     font-size: 30px;
 }
-#button,#val_disp,#loading {
+#val_disp,#loading {
     margin-left: 10px;
 }
 #button,#button_clear {
